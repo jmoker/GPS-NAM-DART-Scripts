@@ -1,6 +1,6 @@
 #!/bin/csh
 
-# Modified by Jamie Moker Feb 2018
+# Modified by Jamie Moker Feb 2018 - githubtest
 
 # usage:
 # csh 01_setup_WPS_longbdy_v06.csh yyyy mm dd hh
